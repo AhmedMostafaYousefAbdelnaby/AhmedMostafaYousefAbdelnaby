@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-this is anoyher  commit!
-=======
 this is again commit!
->>>>>>> feature
 
 and we are go with commit number 2
